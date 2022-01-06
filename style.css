@@ -276,17 +276,18 @@
   color: inherit;
 }
 .login-page{display: flex;
-  padding-bottom: 50px;
+
   margin-left: 135px;
   
 
 }
 .login-wrapper{width: 350px;
+  padding-bottom: 80px;
   
 }
 .login-text{width: 500px;
   padding-left: 170px;
-  padding-top: 30px;
+  padding-top: 75px;
 
 }
 .login-text h1{
